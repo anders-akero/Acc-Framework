@@ -2,9 +2,9 @@
 /**
  * Acc-framework class file.
  *
- * @author Anders Åkerö <anders@akero.eu>
+ * @author Anders Ã…kerÃ¶ <anders@akero.eu>
  * @link http://hackme.akero.eu/
- * @copyright 2014-2014 Åkerö Webb
+ * @copyright 2014 Ã…kerÃ¶ Webb
  * @license GNU
  * @package system
  * @since 1.0
