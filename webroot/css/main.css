@@ -1,0 +1,70 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	color: #555;
+	font: normal 10pt Arial,Helvetica,sans-serif;
+	background-color: #efefef;
+}
+
+#header
+{
+	margin: 0;
+	padding: 1em 20%;
+	border-bottom: 3em solid #C9E0ED;
+}
+
+#content
+{
+	margin: 0;
+	background-color: #fff;
+    padding: 5em 20%;
+}
+
+#footer
+{
+	padding: 2em 2%;
+	font-size: 0.8em;
+	text-align: center;
+	border-top: 1em solid #C9E0ED;
+}
+
+small
+{
+	font-size: 0.5em;
+}
+
+label
+{
+	width: 0;
+	display: block;
+}
+
+#errors{
+	color: #f00;
+}
+
+.flashMessage{
+	background-color: #f00;
+	color: #fff;
+	margin: 1em 0;
+	padding: .5em 1em;
+}
+
+#cart{
+	float: right;
+	margin-top: -2em;
+	border: 1px solid #000;
+	padding: 1em;
+}
+
+.lowStock{
+	color: #f00;
+}
+
+.price{
+	color: #f00;
+	font-size: 1.2em;
+	float: right;
+	border-bottom: 1px solid #f00;
+}
